@@ -28,3 +28,7 @@ The project focuses on recreating the visual layout, sections, and styling of th
 - No JavaScript
 - No frameworks (pure vanilla HTML & CSS)
 
+## 🔗 Live Demo
+
+- **GitHub Pages:**  
+  https://joydeepdev.github.io/cursor-clone/
